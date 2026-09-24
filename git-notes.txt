@@ -1,3 +1,5 @@
 This is where I will store information about Git
 
 This file has been updated
+
+Today we learned about git clone and git pull. These are used to get projects or updates to projects from GitHub
