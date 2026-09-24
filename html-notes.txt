@@ -5,3 +5,4 @@ HTML stands for HyperText Markup Language
 Block elements can contain inline elements but inline elements cannot contain block elements.
 
 Semantic tags help others understand your code
+An example of a semantic tag is: header
