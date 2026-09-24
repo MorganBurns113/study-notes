@@ -1,3 +1,7 @@
 This is where I will store information about HTML
 
 HTML stands for HyperText Markup Language
+
+Block elements can contain inline elements but inline elements cannot contain block elements.
+
+Semantic tags help others understand your code
